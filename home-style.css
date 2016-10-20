@@ -1,0 +1,48 @@
+body {
+  position: absolute;
+  background-color: #b0b0b0;
+  border-top: 3px solid #CCEEAA;
+  width: 100%;
+  max-width: 1680px;
+  min-width: 950px;
+  left: -8px;
+  top: -8px;
+}
+#header {
+  background-color: #FFFFFF;
+  width: 950px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#logo {
+  padding: 5px 0 5px 10px;
+  height: 25px;
+  width: 60px;
+}
+#logo_img {
+  height: 25px;
+  width: 60px;
+}
+#rightnav {
+  position: absolute;
+  left: 50%;
+  margin-left: 220px;
+  top: -8px;
+  min-width: 80px;
+}
+li {
+  display: inline;
+}
+a {
+  text-decoration: none;
+  color: #777777;
+}
+#jumbotron1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -21px;
+  width: 950px;
+  height: 400px;
+  background-color: #cccccc;
+  text-align: center;
+}
